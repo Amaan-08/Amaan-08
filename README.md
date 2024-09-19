@@ -1,4 +1,4 @@
-##👋 Hi, I'm Amaan!
+## 👋 Hi, I'm Amaan!
 
  🚀 About Me
 I am a passionate Mobile Application Developer with a strong foundation in programming and a keen interest in cloud computing. 
